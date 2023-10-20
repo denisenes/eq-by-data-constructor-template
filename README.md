@@ -1,0 +1,1 @@
+# eq-by-data-constructor-template
